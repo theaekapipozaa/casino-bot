@@ -1,6 +1,6 @@
 # RENAME FILE TO 'config.yml'
 bot:
-  token: TOKEN FROM DISCORD
+  token: MTI1MTUyODU1Mzg2Mjc5MTMwOA.G_auU1.knPTSyJvk7xlxtXTRFj1Ea0LO9Ay9vQOOONqoQ
   owner_ids:
     - 123456789123456789
     - 987654321987654321
